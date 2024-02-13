@@ -2,3 +2,4 @@ This is git command file
 git init
 git status
 git commit -m"statementline"
+git push -u branchname
